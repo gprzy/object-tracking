@@ -15,15 +15,15 @@
 # Usage examples
 - Example 1: `basket.mp4`
     ```bash
-    python tracking.py --file './input/basket.mp4' --area '(10000,50000)'
+    python object_tracking.py --file './input/basket.mp4' --area '(10000,50000)'
     ```
 
 - Example 2: `soccer_ball.mp4`
     ```bash
-    python tracking.py --file './input/soccer_ball.mp4' --area '(500, 10000)'
+    python object_tracking.py --file './input/soccer_ball.mp4' --area '(500, 10000)'
     ```
 
 - Example 3: `bouncing_ball.mp4`
     ```bash
-    python tracking.py --file './input/bouncing_ball.mp4' --area '(200, 1000)'
+    python object_tracking.py --file './input/bouncing_ball.mp4' --area '(200, 1000)'
     ```
