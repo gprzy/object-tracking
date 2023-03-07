@@ -1,4 +1,7 @@
 # Object Tracking
+
+<img src="https://github.com/gprzy/credit-scoring/blob/main/assets/puc.png" width="30%" height="30%"/>
+
 🥎 Object tracking with Python and OpenCV
 
 # Link to Videos
